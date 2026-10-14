@@ -59,5 +59,6 @@ The Python, SQL, Excel, and Tableau tasks have been undertaken as part of this p
 
 **Leander Chris Dsouza**
 
-[LinkedIn](https://www.linkedin.com/in/leander-chris/)
+- LinkedIn: [Leander Chris Dsouza](https://www.linkedin.com/in/leander-chris/)
+- GitHub: [leanderdsouza-0013](https://github.com/leanderdsouza-0013)
 
