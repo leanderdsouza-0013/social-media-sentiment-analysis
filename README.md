@@ -47,6 +47,10 @@ These datasets contain social media text, associated entities, and sentiment lab
 - Tweet volume and average tweet length
 - Visual exploration of sentiment patterns
 
+## Dataset 
+
+[Kaggle](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+
 ## Project Status
 
 The Python, SQL, Excel, and Tableau tasks have been undertaken as part of this project. Refer to the individual folders for the corresponding work and outputs.
