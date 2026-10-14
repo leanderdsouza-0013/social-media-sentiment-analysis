@@ -47,10 +47,6 @@ These datasets contain social media text, associated entities, and sentiment lab
 - Tweet volume and average tweet length
 - Visual exploration of sentiment patterns
 
-## Detailed Documentation
-
-For the project workflow, tool-specific details, and further information, see the [Detailed Project Documentation](Documentation/README.md).
-
 ## Project Status
 
 The Python, SQL, Excel, and Tableau tasks have been undertaken as part of this project. Refer to the individual folders for the corresponding work and outputs.
